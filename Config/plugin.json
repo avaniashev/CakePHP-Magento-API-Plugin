@@ -1,0 +1,14 @@
+{
+  "name": "Magento",
+  "description": "Plugin for connecting Magento",
+  "author": "IS2B",
+  "site": "http://is2b.ru",
+  "dependencies": {
+    "plugins": [
+      "acl",
+      "extensions",
+      "ModelComments",
+      "Excel"
+    ]
+  }
+}

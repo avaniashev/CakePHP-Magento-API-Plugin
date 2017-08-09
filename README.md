@@ -12,7 +12,7 @@ How to use it
 
 	```bash
 	cd APP/Plugin
-	git clone git://github.com/LubosRemplik/CakePHP-Magento-API-Plugin.git Magento
+	git clone git://github.com/avaniashev/CakePHP-Magento-API-Plugin.git Magento
 	```
 
 1.	Set up datasource, example is in Magento/Config/database.php.default (you need to get api user and key in magento admin panel).
